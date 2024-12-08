@@ -1,6 +1,6 @@
 # Portfolio Website
 
-Welcome to my personal portfolio! I built this website using the **Hyperspace** template from [HTML5 UP](https://html5up.net). It's a one-page design showcasing my skills and projects. 
+Welcome to my personal portfolio! 
 
 You can view the live version of my portfolio here: [**Portfolio Website**](https://your-username.github.io/your-repository-name)
 
