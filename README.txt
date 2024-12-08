@@ -1,33 +1,27 @@
-Hyperspace by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Portfolio Website
 
+Welcome to my personal portfolio! I built this website using the **Hyperspace** template from [HTML5 UP](https://html5up.net). It's a one-page design showcasing my skills and projects. 
 
-So I've had the wireframe for this particular design kicking around for some time, but with all
-the other interesting (and in some cases, semi-secret) projects I've been working on it took me
-a little while to get to actually designing and coding it. Fortunately, things have eased up
-enough for me to finaly get around to it, so I'm happy to introduce Hyperspace: a fun, blocky,
-one-page design with a lot of color, a bit of animation, and an additional "generic" page template
-(because hey, even one-page sites usually need an interior page or two). Hope you dig it :)
+You can view the live version of my portfolio here: [**Portfolio Website**](https://your-username.github.io/your-repository-name)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Credits
 
-(* = not included)
+This website is based on the **Hyperspace** template by [HTML5 UP](https://html5up.net) (designed by @ajlkn).
 
-AJ
-aj@lkn.io | @ajlkn
+### Design and Development:
+- **Template:** [Hyperspace by HTML5 UP](https://html5up.net/hyperspace)
+- **Icons:** [Font Awesome](https://fontawesome.com)
+- **Images:** Demo images provided by [Unsplash](https://unsplash.com) (CC0 license)
+- **JavaScript Libraries:**
+  - [jQuery](https://jquery.com)
+  - [Scrollex](https://github.com/ajlkn/jquery.scrollex)
+  - [Responsive Tools](https://github.com/ajlkn/responsive-tools)
 
+### License:
+This template is **free for personal and commercial use** under the [CC BY 3.0 license](https://html5up.net/license).
 
-Credits:
+## About Me
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Hi, I'm Anjali Hansda, a data analyst with a passion for data-driven decision-making. Feel free to check out my portfolio for more details on my work and projects.
 
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Feel free to connect with me for any collaborations or job opportunities!
